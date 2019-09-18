@@ -4,8 +4,9 @@
 
 [English](#en)  
 
-<a name="tr"/>
 # Türkçe
+
+<a name="tr"/>
 
 ## Önemli Uyarı
 
@@ -33,8 +34,11 @@ Bunun için `.env` dosyasını açıp **APP_LANG** değerini  **tr** olarak set 
 Daha sonra php veya dockeri yeniden başlatın.
 **linuxserver/bookstack** docker image için bu dosya `/config/www/.env` dır.
 
-<a name="tr"/>
+
+
 # English
+
+<a name="en"/>
 
 ## Warning
 
