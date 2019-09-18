@@ -1,5 +1,10 @@
-[TOC]
+# Table Of Contents
 
+[Türkçe](#tr)  
+
+[English](#en)  
+
+<a name="tr"/>
 # Türkçe
 
 ## Önemli Uyarı
@@ -28,6 +33,7 @@ Bunun için `.env` dosyasını açıp **APP_LANG** değerini  **tr** olarak set 
 Daha sonra php veya dockeri yeniden başlatın.
 **linuxserver/bookstack** docker image için bu dosya `/config/www/.env` dır.
 
+<a name="tr"/>
 # English
 
 ## Warning
@@ -58,4 +64,3 @@ Then restart php or docker.
 
 This file is  `/config/www/.env`  for **linuxserver/bookstack** docker image.
 
-# 
