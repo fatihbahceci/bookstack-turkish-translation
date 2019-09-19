@@ -8,15 +8,6 @@
 
 <a name="tr"/>
 
-## Önemli Uyarı
-
-Aşağıdaki Dosyalar henüz tam olarak çevrilmemiştir.
-
-* entities.php
-* ~~errors.php~~
-* ~~settings.php~~
-* ~~validation.php~~
-
 
 ## Kurulum
 
@@ -36,17 +27,6 @@ Daha sonra php veya dockeri yeniden başlatın.
 # English
 
 <a name="en"/>
-
-## Warning
-
-The following files are not yet fully translated.
-
-* entities.php
-* ~~errors.php~~
-* ~~settings.php~~
-* ~~validation.php~~
-
-
 
 
 ## Installation
