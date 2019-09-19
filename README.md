@@ -13,8 +13,8 @@
 Aşağıdaki Dosyalar henüz tam olarak çevrilmemiştir.
 
 * entities.php
-* errors.php
-* ~~settings.php~~
+* ~~errors.php~~
+* settings.php
 * ~~validation.php~~
 
 
@@ -42,8 +42,8 @@ Daha sonra php veya dockeri yeniden başlatın.
 The following files are not yet fully translated.
 
 * entities.php
-* errors.php
-* ~~settings.php~~
+* ~~errors.php~~
+* settings.php
 * ~~validation.php~~
 
 
