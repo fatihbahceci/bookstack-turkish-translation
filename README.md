@@ -14,7 +14,7 @@ Aşağıdaki Dosyalar henüz tam olarak çevrilmemiştir.
 
 * entities.php
 * ~~errors.php~~
-* settings.php
+* ~~settings.php~~
 * ~~validation.php~~
 
 
@@ -43,7 +43,7 @@ The following files are not yet fully translated.
 
 * entities.php
 * ~~errors.php~~
-* settings.php
+* ~~settings.php~~
 * ~~validation.php~~
 
 
