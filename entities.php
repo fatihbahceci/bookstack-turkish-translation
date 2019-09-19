@@ -246,7 +246,7 @@ return [
     'tag_name' =>  'Etiket Adı',
     'tag_value' => 'Etiket Değeri (Opsiyonel)',
     'tags_explain' => "İçeriğinizi daha iyi kategorize etmek için bazı etiketler ekleyin. \n Daha ayrıntılı bir organizasyon için bir etikete değer atayabilirsiniz.",
-    'tags_add' => 'Başka etiket ekle,
+    'tags_add' => 'Başka etiket ekle',
     'tags_remove' => 'Bu etiketi kaldır',
     'attachments' => 'Ekler',
     'attachments_explain' => 'Bazı dosyalar yükleyin veya sayfanızda görüntülenecek bağlantılar ekleyin. Bunlar sayfa kenar çubuğunda görülebilir.',
