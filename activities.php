@@ -14,7 +14,7 @@ return [
     'page_delete_notification'    => 'Sayfa silindi',
     'page_restore'                => 'geri yüklenmiş sayfa',
     'page_restore_notification'   => 'Sayfa geri yüklendi',
-    'page_move'                   => 'taşınmış sayfa',
+    'page_move'                   => 'tarfından taşınan sayfa',
 
     // Chapters
     'chapter_create'              => 'tarafından oluşturulan bölüm',
@@ -23,7 +23,7 @@ return [
     'chapter_update_notification' => 'Bölüm Güncellendi',
     'chapter_delete'              => 'tarafından silinen bölüm',
     'chapter_delete_notification' => 'Bölüm Silindi',
-    'chapter_move'                => 'taşınmış bölüm',
+    'chapter_move'                => 'tarafından taşınan bölüm',
 
     // Books
     'book_create'                 => 'tarafından oluşturulan kitap',
@@ -32,8 +32,8 @@ return [
     'book_update_notification'    => 'Kitap Güncellendi',
     'book_delete'                 => 'tarafından silinen kitap',
     'book_delete_notification'    => 'Kitap Silindi',
-    'book_sort'                   => 'sıralanmış kitap',
-    'book_sort_notification'      => 'Kitap Successfully Re-sorted',
+    'book_sort'                   => 'tarafından sıralanan kitap',
+    'book_sort_notification'      => 'Kitap Başarıyla Yeniden Sıralandı',
 
     // Bookshelves
     'bookshelf_create'                 => 'tarafından oluşturulan kitaplık',
